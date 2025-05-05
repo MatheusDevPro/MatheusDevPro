@@ -47,9 +47,7 @@
 
 ## 📫 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuusuario)  
-📧 Email: **seuemail@exemplo.com**  
-📱 WhatsApp: **+55 (XX) XXXX-XXXX**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/matheus-dantas-rocha-2b550522a)  
 
 ---
 
