@@ -38,9 +38,16 @@
 
 ## 📫 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/linkedin.com/in/matheus-dantas-rocha-2b550522a)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-dantas-rocha-2b550522a/)
 
 ---
 
 ⭐️ **“Tecnologia não é só código, é solução, é impacto, é futuro.”**
+
+---
+
+### 🤝 Vamos conversar?
+
+Estou sempre aberto para colaborações, freelas e novas ideias.  
+Se quiser bater um papo, me chama no LinkedIn!
 
