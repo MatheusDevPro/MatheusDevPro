@@ -16,7 +16,7 @@
 
 - 🌐 Desenvolvimento Web: `HTML`, `CSS (Bootstrap)`, `JavaScript`
 - 💾 Banco de Dados: `SQL Server`
-- 🤖 Chatbots inteligentes com `Blip`, `Dialogflow`, e integração com `ChatGPT`
+- 🤖 Chatbots inteligentes com `Blip`, `ConnectHub-AI`, e integração com `ChatGPT`
 - 📊 Sistemas de controle como: controle de caixa, agendamento online, etc.
 - 📱 Integrações com APIs e WhatsApp
 
