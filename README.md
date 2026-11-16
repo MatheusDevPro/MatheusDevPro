@@ -58,21 +58,18 @@ Gosto de transformar necessidades complexas em soluções digitais práticas, es
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusDevPro&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub do Matheus" />
-</p>
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDevPro&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Utilizadas" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusDevPro&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 <!-- Animação do Pac-Man -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/pacman.gif" alt="Pac-Man Animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animação estilo Pac-Man/Snake" />
 </p>
-
 ---
 
 ## 📬 Contato & Conexões
